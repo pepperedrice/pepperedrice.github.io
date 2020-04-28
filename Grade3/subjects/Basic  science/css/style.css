@@ -124,12 +124,12 @@ ul {
 li {
     list-style: none;
     text-align: left;
-    font-size: 19px;
+    font-size: 20px;
 }
 
 /* line 58, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_reset.scss */
 p {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
     line-height: 28px;
     color: #919191;
@@ -1223,7 +1223,7 @@ h3 {
     /* line 244, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_header.scss */
     .header-area .log_chat_area .live_chat_btn a {
         padding: 12px 12px;
-        font-size: 13px;
+        font-size: 15px;
     }
 }
 
@@ -2294,7 +2294,7 @@ h3 {
 
 /* line 16, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_latest_blog.scss */
 .our_latest_blog .single_latest_blog .thumb img {
-    width: 100%;
+    width: 200px;
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     -ms-transform: scale(1);
@@ -6141,6 +6141,7 @@ h6 {
 .single-post-area .navigation-area .nav-left .thumb img {
     -webkit-transition: 0.5s;
     transition: 0.5s;
+    width: 60px;
 }
 
 /* line 1252, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
@@ -6183,6 +6184,7 @@ h6 {
 .single-post-area .navigation-area .nav-right .thumb img {
     -webkit-transition: 0.5s;
     transition: 0.5s;
+    width: 60px;
 }
 
 /* line 1287, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
