@@ -630,8 +630,9 @@ h3 {
 @media (max-width: 767px) {
     /* line 2, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_section_title.scss */
     .section_title h3 {
-        font-size: 23px;
-        line-height: 30px;
+        font-size: 25px;
+        text-align: left;
+        font-weight: bold;
     }
 }
 

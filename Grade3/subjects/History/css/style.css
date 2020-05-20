@@ -5552,9 +5552,10 @@ h6 {
 
 /* line 549, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
 .blog_details h2 {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 600;
     margin-bottom: 8px;
+    color: #2f2c2c;
 }
 
 @media (min-width: 768px) {
