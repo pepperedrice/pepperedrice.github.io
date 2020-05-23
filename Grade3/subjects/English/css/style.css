@@ -2458,7 +2458,7 @@ h3 {
 
 /* line 27, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_faq.scss */
 .courses_details_info #accordion .card h5 button {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 400;
     color: #1F1F1F;
 }
@@ -2466,7 +2466,7 @@ h3 {
 @media (max-width: 767px) {
     /* line 27, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_faq.scss */
     .courses_details_info #accordion .card h5 button {
-        font-size: 13px;
+        font-size: px;
     }
 }
 
@@ -2492,6 +2492,7 @@ h3 {
     /* line 44, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_faq.scss */
     .courses_details_info #accordion .card .card-body {
         padding: 0 20px 10px 20px;
+        font-size: 24px;
     }
 }
 
@@ -2987,7 +2988,6 @@ h3 {
 /* line 32, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_course_details.scss */
 .courses_details_banner .course_text .prise span.inactive {
     color: #fff;
-    text-decoration: line-through;
     margin-right: 50px;
 }
 
